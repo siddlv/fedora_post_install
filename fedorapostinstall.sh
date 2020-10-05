@@ -32,5 +32,11 @@ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flat
 
 echo Script Completed
 echo Success!
-echo Close Terminal
+
+sleep 1
+
+rm -r fedorapostinstall.sh
+
+kill -9 $PPID
+
 exit 0
