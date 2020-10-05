@@ -2,11 +2,11 @@
 
 A shell script for enabling RPMFusion repositories, installing multimedia codecs and enabling flatpak on Fedora.
 
-Usage:    
-1. Download the script:       
-            wget https://raw.githubusercontent.com/siddlv/fedora_post_install/main/fedorapostinstall.sh
+Usage:
+1. Open Terminal.                   
 
-2. Open Terminal. 
+2. Download the script:       
+            wget https://raw.githubusercontent.com/siddlv/fedora_post_install/main/fedorapostinstall.sh
 
 3. Run the following command:    
             chmod +x fedorapostinstall.sh
