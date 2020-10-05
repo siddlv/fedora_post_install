@@ -10,5 +10,4 @@ Usage:
 
 3. Run the script:    
       ./fedorapostinstall.sh
-    
-4. Close Terminal    
+
