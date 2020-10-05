@@ -11,6 +11,6 @@ Usage:
 3. Run the script:    
       ./fedorapostinstall.sh
 
-References:
-https://rpmfusion.org
+References:  
+https://rpmfusion.org  
 https://flatpak.org/setup/Fedora/
